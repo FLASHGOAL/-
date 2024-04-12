@@ -51,7 +51,8 @@
 
             // Get widget location
             var liveScoreLocation = $(this.element);
-
+            // Construct the Live Games Tab click
+            $('<a href="https://flashgoal.github.io/-/livechannels.html" class="titleWidget nav-tab">Live Channels</a>').prependTo($(liveScoreLocation));
             // Construct the Live Games Tab click
             $('<a href="#liveGame" class="titleWidget nav-tab">Live Games</a>').prependTo($(liveScoreLocation));
             // Construct the All Games Tab click
