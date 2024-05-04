@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>AllowedProtocolMaskInDomesticRoaming</key>
+				<integer>3</integer>
+				<key>APNs</key>
+				<array>
+					<dict>
+						<key>AllowedProtocolMask</key>
+						<integer>3</integer>
+						<key>AllowedProtocolMaskInDomesticRoaming</key>
+						<integer>3</integer>
+						<key>AllowedProtocolMaskInRoaming</key>
+						<integer>3</integer>
+						<key>AuthenticationType</key>
+						<string>CHAP</string>
+						<key>DefaultProtocolMask</key>
+						<integer>3</integer>
+						<key>EnableXLAT464</key>
+						<true />
+						<key>Name</key>
+						<string>mcinet</string>
+					</dict>
+				</array>
+				<key>AttachAPN</key>
+				<dict>
+					<key>AllowedProtocolMask</key>
+					<integer>3</integer>
+					<key>AuthenticationType</key>
+					<string>CHAP</string>
+					<key>Name</key>
+					<string>mcinet</string>
+				</dict>
+				<key>PayloadDisplayName</key>
+				<string>Cellular</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.cellular.ed22b82c-e0c7-49a7-a986-f3366d41b25e</string>
+				<key>PayloadType</key>
+				<string>com.apple.cellular</string>
+				<key>PayloadUUID</key>
+				<string>ea6d8faf-7082-4222-bbb9-bab20f7c8a0b</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>پروفایل ساخته شده توسط مهند مولوی instagram: @molavi.10</string>
+		<key>PayloadDisplayName</key>
+		<string>mohannad-antenMCI-ipv4-ipv6</string>
+		<key>PayloadIdentifier</key>
+		<string>DESKTOP-IDG33VM.2fa37fad-84c5-406c-b92c-f8a7b5d1978a</string>
+		<key>PayloadOrganization</key>
+		<string>پروفایل ساخته شده توسط مهند مولوی instagram: @molavi.10</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>0cf6215a-2711-4f5c-9b05-3a8ebf58d9e3</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
