@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>AllowedProtocolMaskInDomesticRoaming</key>
+				<integer>3</integer>
+				<key>APNs</key>
+				<array>
+					<dict>
+						<key>AllowedProtocolMask</key>
+						<integer>3</integer>
+						<key>AllowedProtocolMaskInDomesticRoaming</key>
+						<integer>3</integer>
+						<key>AllowedProtocolMaskInRoaming</key>
+						<integer>3</integer>
+						<key>AuthenticationType</key>
+						<string>CHAP</string>
+						<key>DefaultProtocolMask</key>
+						<integer>3</integer>
+						<key>EnableXLAT464</key>
+						<true />
+						<key>Name</key>
+						<string>mcinet</string>
+					</dict>
+				</array>
+				<key>AttachAPN</key>
+				<dict>
+					<key>AllowedProtocolMask</key>
+					<integer>3</integer>
+					<key>AuthenticationType</key>
+					<string>CHAP</string>
+					<key>Name</key>
+					<string>mcinet</string>
+				</dict>
+				<key>PayloadDisplayName</key>
+				<string>Cellular</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.cellular.ed22b82c-e0c7-49a7-a986-f3366d41b25e</string>
+				<key>PayloadType</key>
+				<string>com.apple.cellular</string>
+				<key>PayloadUUID</key>
+				<string>5fccb948-d2c8-4991-a409-b03b4fd5a079</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>پشتیبانی : instagram: @molavi.10</string>
+		<key>PayloadDisplayName</key>
+		<string>mci7-mohannad</string>
+		<key>PayloadIdentifier</key>
+		<string>5fccb948-d2c8-4991-a409-b03b4fd5a079</string>
+		<key>PayloadOrganization</key>
+		<string>ساخته شده توسط مهند مولوی</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>5fccb948-d2c8-4991-a409-b03b4fd5a079</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
